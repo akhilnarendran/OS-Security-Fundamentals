@@ -117,6 +117,9 @@ Logging
     Event Viewer → Security Logs
 
 
+__________________________________________________________________________
 
+
+<img width="756" height="422" alt="Image" src="https://github.com/user-attachments/assets/d90d8994-6ade-49a0-b509-ac6491225e32" />
 
 
